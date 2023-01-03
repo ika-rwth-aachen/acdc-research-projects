@@ -1,0 +1,3 @@
+[submodule "acdc-notebooks"]
+	path = acdc-notebooks
+	url = ../acdc-notebooks

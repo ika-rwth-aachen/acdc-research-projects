@@ -1,6 +1,6 @@
 ## ika Dataset for Semantic Point Cloud Segmentation
 
-### :arrow_forward: [Download](https://rwth-aachen.sciebo.de/s/lDFnC9XVlBTH9Kw)
+### :arrow_forward: [Download](https://rwth-aachen.sciebo.de/s/T9Eat2cDneq0hHA)
 
 ### Folder Structure
 

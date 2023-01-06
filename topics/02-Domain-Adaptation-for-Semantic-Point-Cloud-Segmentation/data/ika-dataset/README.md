@@ -48,7 +48,7 @@ CLASS_IDS = {
 
 ### NPY-Files
 
-The .npy-files in `segmentation_npy` have already been pre-processed to the .npy-format required for the training pipeline presented in [ACDC Exercise: Semantic Point Cloud Segmentation](https://git.rwth-aachen.de/ika/acdc-notebooks/-/blob/main/section_3_sensor_data_processing/3_semantic_pcl_segmentation_solution.ipynb).
+The .npy-files in `segmentation_npy` have already been pre-processed to the .npy-format required for the training pipeline presented in [ACDC Exercise: Semantic Point Cloud Segmentation](https://github.com/ika-rwth-aachen/acdc-notebooks/blob/main/section_2_sensor_data_processing/3_semantic_pcl_segmentation.ipynb).
 
 As part of the pre-processing, the semantic classes from above have been merged according to the following mapping between class IDs. The merged class IDs match the ones used in the exercise.
 

@@ -3,7 +3,7 @@
 # ACDC Research Projects
 
 > **Note**
-> This repository belongs to the MOOC [Automated and Connected Driving Challenges (ACDC)](https://www.edx.org/course/automated-and-connected-driving-challenges). It contains multiple code and data to work on multiple research projects. Enroll in the MOOC to get access to background material.
+> This repository belongs to the MOOC [Automated and Connected Driving Challenges (ACDC)](https://www.edx.org/course/automated-and-connected-driving-challenges). It contains code and data to work on multiple research projects. Enroll in the MOOC to get access to background material.
 
 Thank you for your interest in the *ACDC - Research Projects*! Working on a research project gives you the chance to apply your newly learnt skills to actual research questions. We provide you with detailed descriptions of suggested research topics including data and suggestions for how to face the presented challenges. In the spirit of open and reproducible research, we are encouraging you to produce a research report in the form of a Jupyter Notebook, for which we also provide a template. If you choose to work on one of the challenges, you may publicly share your research so other researchers can then build upon your results. The research project gives you the opportunity to demonstrate that you are capable of solving complex problems in the field of automated and connected driving.
 
@@ -27,7 +27,7 @@ Before starting to work on a particular research project, take your time to chec
 
 ## Working on a Research Project
 
-In order to start working on your selected research project, we recommend to fork this [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository into your own GitHub account. This will allow you to not only locally work on a clone of the repository, but to also push your changes to your own GitHub. This way you can present your research project progress and outcome online and also have the ability to later post a pull request to the original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository, where we would be happy to publish and endorse finished research projects.
+In order to start working on your selected research project, we recommend to fork this [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository into your own GitHub account. This will allow you to not only locally work on a clone of the repository, but to also push your changes to your own GitHub. This way you can present your research project progress and outcome online and also have the ability to later post a pull request to the original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. We would be happy to publish and endorse finished research projects.
 
 More information about GitHub's fork and pull request concepts can be found here:
 - [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
@@ -56,43 +56,14 @@ Once you have cloned the repository, enter the repository and launch the Docker 
 ./docker/run.sh
 ```
 
-This will start a JupyterLab server that you can access by opening the bottommost URL printed by the command output, starting with `http://127.0.0.1:8888/lab?token=`.
+This will start a JupyterLab server that you can access by opening the bottommost URL printed by the command output (starting with `http://127.0.0.1:8888/lab?token=`).
 
 ```
 acdc-research-projects/ $ ./docker/run.sh 
 Executing the command: jupyter lab
-[I 2023-01-06 15:02:04.557 ServerApp] jupyter_server_mathjax | extension was successfully linked.
-[I 2023-01-06 15:02:04.564 ServerApp] jupyterlab | extension was successfully linked.
-[I 2023-01-06 15:02:04.564 ServerApp] jupyterlab_git | extension was successfully linked.
-[I 2023-01-06 15:02:04.564 ServerApp] jupyterlab_iframe | extension was successfully linked.
-[I 2023-01-06 15:02:04.564 ServerApp] jupyterlab_tensorboard | extension was successfully linked.
-[W 2023-01-06 15:02:04.567 NotebookApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
-[W 2023-01-06 15:02:04.567 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
-[W 2023-01-06 15:02:04.567 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
-[W 2023-01-06 15:02:04.567 NotebookApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
-[I 2023-01-06 15:02:04.572 ServerApp] Writing Jupyter server cookie secret to /home/jovyan/.local/share/jupyter/runtime/jupyter_cookie_secret
-[I 2023-01-06 15:02:04.713 ServerApp] jupyter_tensorboard | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
-[I 2023-01-06 15:02:04.713 ServerApp] jupyter_tensorboard | extension was successfully linked.
-[I 2023-01-06 15:02:04.714 ServerApp] nbgitpuller | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
-[I 2023-01-06 15:02:04.714 ServerApp] nbgitpuller | extension was successfully linked.
-[I 2023-01-06 15:02:04.714 ServerApp] nbclassic | extension was successfully linked.
-[I 2023-01-06 15:02:04.715 ServerApp] nbdime | extension was successfully linked.
-[I 2023-01-06 15:02:04.735 ServerApp] nbclassic | extension was successfully loaded.
-[I 2023-01-06 15:02:04.736 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
-[I 2023-01-06 15:02:05.028 ServerApp] jupyter_tensorboard extension loaded.
-[I 2023-01-06 15:02:05.028 ServerApp] jupyter_tensorboard | extension was successfully loaded.
-[I 2023-01-06 15:02:05.029 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
-[I 2023-01-06 15:02:05.029 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-[I 2023-01-06 15:02:05.031 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2023-01-06 15:02:05.034 ServerApp] jupyterlab_git | extension was successfully loaded.
-Installing jupyterlab_iframe handler on path /iframes
-Installing iframes: []
-[I 2023-01-06 15:02:05.035 ServerApp] jupyterlab_iframe | extension was successfully loaded.
-[I 2023-01-06 15:02:05.035 ServerApp] Registered Tensorboard extension at URL path /tensorboard
-[I 2023-01-06 15:02:05.035 ServerApp] jupyterlab_tensorboard | extension was successfully loaded.
-[I 2023-01-06 15:02:05.080 ServerApp] nbdime | extension was successfully loaded.
-[I 2023-01-06 15:02:05.080 ServerApp] nbgitpuller | extension was successfully loaded.
-[I 2023-01-06 15:02:05.081 ServerApp] Serving notebooks from local directory: /home/jovyan
+
+[ ... ]
+
 [I 2023-01-06 15:02:05.081 ServerApp] Jupyter Server 1.10.2 is running at:
 [I 2023-01-06 15:02:05.081 ServerApp] http://f62314f673dc:8888/lab?token=3342f3d444e484e6f1aa7b2ba056330b32b1cf4e62c4753f
 [I 2023-01-06 15:02:05.081 ServerApp]  or http://127.0.0.1:8888/lab?token=3342f3d444e484e6f1aa7b2ba056330b32b1cf4e62c4753f
@@ -124,4 +95,4 @@ We recommend to only work on your project from within your selected topic's dire
 
 ### 7. Publishing your Finished Research Project
 
-As you work on your project, you should regularly `git commit` your progress in your forked repository. You can also `git push` your changes to your remote GitHub repository, such that the changes are publicly visible. Showcasing your progress and final research project report in your personal GitHub fork is a great way of demonstrating that you are capable of solving complex problems in the field of automated and connected driving. Once you have finished your project report, we also encourage you to create a [pull request]([About Pull Requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) to this original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository, where we would be very happy to then publish and endorse your research!
+As you work on your project, you should regularly `git commit` your progress in your forked repository. You can also `git push` your changes to your remote GitHub repository, such that the changes are publicly visible. Showcasing your progress and final research project report in your personal GitHub fork is a great way of demonstrating that you are capable of solving complex problems in the field of automated and connected driving. Once you have finished your project report, we also encourage you to create a [pull request]([About Pull Requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) to this original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. We would be very happy to then publish and endorse your research!

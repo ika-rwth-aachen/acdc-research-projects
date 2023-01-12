@@ -7,6 +7,8 @@
 
 Thank you for your interest in the *ACDC - Research Projects*! Working on a research project gives you the chance to apply your newly learnt skills to actual research questions. We provide you with detailed descriptions of suggested research topics including data and suggestions for how to face the presented challenges. In the spirit of open and reproducible research, we are encouraging you to produce a research report in the form of a Jupyter Notebook, for which we also provide a template. If you choose to work on one of the challenges, you may publicly share your research so other researchers can then build upon your results. The research project gives you the opportunity to demonstrate that you are capable of solving complex problems in the field of automated and connected driving.
 
+All research is typically a joint effort between multiple collaborators. In that spirit, we actively encourage you to work on a project and a final report together with other participants of the ACDC MOOC.
+
 All topic descriptions, code, and data is stored in the [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository on GitHub.
 
 ## Suggested Research Topics
@@ -87,12 +89,14 @@ While you could have also viewed the task description in the GitHub web interfac
 
 The final goal of any ACDC Research Project is to document your research in a well-written project report in the form of an executable Jupyter Notebook. This will allow other researchers to reproduce and build upon your work.
 
-In the JupyterLab web interface, navigate to the template directory `template` and open the project report template notebook `report.ipynb`. The report template contains a lot of information on how to structure a well-written project report, how to incorporate interactive code cells, how to install dependencies for reproducibility, and much more. Try to execute the code cells in the report template and take your time to understand how a final research project report could potentially look like.
+In the JupyterLab web interface, navigate to the template directory `template` and open the [project report template notebook `report.ipynb`](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/template/report.ipynb). The report template contains a lot of information on how to structure a well-written project report, how to incorporate interactive code cells, how to install dependencies for reproducibility, and much more. Try to execute the code cells in the report template and take your time to understand how a final research project report could potentially look like.
 
 ### 6. Working on the Research Project
 
 We recommend to only work on your project from within your selected topic's directory (`topics/<YOUR_SELECTED_TOPIC>`). Therefore, the first step is to copy the report template to your topic's directory. You can then get started to work on your research project by editing the copied report notebook in the JupyterLab web interface.
 
+Note that a well-structured written research report is as important as developing and implementing the actual methodology. We therefore encourage you to keep your development efforts lean and also focus on producing a well-thought presentation of your research motive, methodology, and evaluation.
+
 ### 7. Publishing your Finished Research Project
 
-As you work on your project, you should regularly `git commit` your progress in your forked repository. You can also `git push` your changes to your remote GitHub repository, such that the changes are publicly visible. Showcasing your progress and final research project report in your personal GitHub fork is a great way of demonstrating that you are capable of solving complex problems in the field of automated and connected driving. Once you have finished your project report, we also encourage you to create a [pull request]([About Pull Requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) to this original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. We would be very happy to then publish and endorse your research!
+As you work on your project, you should regularly `git commit` your progress in your forked repository. You can also `git push` your changes to your remote GitHub repository, such that the changes are publicly visible. Showcasing your progress and final research project report in your personal GitHub fork is a great way of demonstrating that you are capable of solving complex problems in the field of automated and connected driving. Once you have finished your project report, we also encourage you to create a [pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to this original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. We would be very happy to then publish and endorse your research!

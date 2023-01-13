@@ -17,6 +17,8 @@ All suggested research topics that have been presented in the video sequences ar
 
 Before starting to work on a particular research project, take your time to check out the detailed task descriptions found in the repository. Clicking on the topic title in the table below will also directly take you to the detailed task description of each topic. You can also rewatch the task description video sequences (incl. [Overview](https://www.youtube.com/watch?v=2Krtx5EZ8fc) and [Outtro](https://www.youtube.com/watch?v=sUB7Ovy5At4)), see the links in the table below.
 
+If you have an interesting research idea yourself that fits into the context of automated and connected driving, feel free to produce a research project report for your own topic. We would also be happy to integrate your project idea into this [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. Simply create a [pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
 | No. | Topic | Task | Relevant ACDC Sections |
 | --- | --- | --- | --- |
 | 01 | [Domain Adaptation for Semantic Image Segmentation](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/topics/01-Domain-Adaptation-for-Semantic-Image-Segmentation/task.ipynb) ([Video](https://www.youtube.com/watch?v=yBF92-fbf1E)) | Develop a methodology which optimizes a neural network for semantic image segmentation trained on public datasets with regard to its predictive performance on data affected by domain shift. | Image Segmentation | 

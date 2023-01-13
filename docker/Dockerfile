@@ -1,5 +1,6 @@
-FROM rwthika/acdc-notebooks:latest
+# docker buildx build --push --platform linux/amd64,linux/arm64 -t rwthika/acdc-research-projects:latest
 
+FROM rwthika/acdc-notebooks:latest as base
 
 USER root
 
@@ -9,6 +10,8 @@ RUN sed -i "s/#%sudo/%sudo/" /etc/sudoers && \
     usermod -aG sudo $DOCKERUSER && \
     touch /home/$DOCKERUSER/.sudo_as_admin_successful && \
     echo "$DOCKERUSER:$DOCKERUSER" | chpasswd
+
+FROM base as final-amd64
 
 # install CUDA for GPU support (copy from official cuda Dockerfiles)
 # ==============================================================================
@@ -78,5 +81,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 # ==============================================================================
 
 ENV LD_LIBRARY_PATH=/usr/local/cuda-11.2/targets/x86_64-linux/lib:$LD_LIBRARY_PATH
+
+FROM base as final-arm64
+
+FROM final-${TARGETARCH} as final
 
 USER jovyan

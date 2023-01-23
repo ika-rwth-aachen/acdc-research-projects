@@ -16,7 +16,7 @@ docker run \
     --publish 8888:8888 \
     --volume $MOUNT_DIR:/home/jovyan/acdc \
     $(if command -v nvidia-smi > /dev/null; then echo -n "--gpus all"; fi) \
-    rwthika/acdc-notebooks:acdc-research-projects
+    rwthika/acdc-research-projects:latest
 
 # Remove write permission of uid 1000.
 setfacl -R -x u:1000 $MOUNT_DIR 2> /dev/null

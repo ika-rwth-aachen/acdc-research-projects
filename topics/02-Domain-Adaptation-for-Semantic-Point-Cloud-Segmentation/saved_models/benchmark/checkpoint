@@ -1,2 +1,0 @@
-model_checkpoint_path: "benchmark_model_weights"
-all_model_checkpoint_paths: "benchmark_model_weights"

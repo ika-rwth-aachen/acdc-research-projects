@@ -9,7 +9,11 @@ Thank you for your interest in the *ACDC - Research Projects*! Working on a rese
 
 All research is typically a joint effort between multiple collaborators. In that spirit, we actively encourage you to work on a project and a final report together with other participants of the ACDC MOOC.
 
-All topic descriptions, code, and data is stored in the [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository on GitHub.
+## Finished Research Projects
+
+You can find all published research reports in the [`reports/`](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports) folder. It can also be interesting to take a look at the [forks of the repository](https://github.com/ika-rwth-aachen/acdc-research-projects/network/members) to check out what everyone else is working on.
+
+- [Domain Adaptation for Semantic Point Cloud Segmentation](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/02-Domain-Adaptation-for-Semantic-Point-Cloud-Segmentation/2022-09_marbuco/report.ipynb) by [@marbuco](https://github.com/marbuco/) (09/2022)
 
 ## Suggested Research Topics
 
@@ -102,5 +106,3 @@ Note that a well-structured written research report is as important as developin
 ### 7. Publishing your Finished Research Project
 
 As you work on your project, you should regularly `git commit` your progress in your forked repository. You can also `git push` your changes to your remote GitHub repository, such that the changes are publicly visible. Showcasing your progress and final research project report in your personal GitHub fork is a great way of demonstrating that you are capable of solving complex problems in the field of automated and connected driving. Once you have finished your project report, we also encourage you to create a [pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to this original [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) repository. We would be very happy to then publish and endorse your research!
-
-You can find all published research reports in the [`reports/`](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports) folder. It can also be interesting to take a look at the [forks of the repository](https://github.com/ika-rwth-aachen/acdc-research-projects/network/members) to check out what everyone else is working on.

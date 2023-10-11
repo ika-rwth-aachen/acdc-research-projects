@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>flatland_server</name>
+  <version>1.1.3</version>
+  <description>The flatland_server package</description>
+  <license>BSD</license>
+  <url type="website">https://bitbucket.org/avidbots/flatland</url>
+
+  <maintainer email="joseph@avidbots.com">Joseph Duchesne</maintainer>
+  <author email="joseph@avidbots.com">Joseph Duchesne</author>
+  <author>Chunshang Li</author>
+  <author>Mike Brousseau</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>cmake_modules</build_depend>
+
+  <depend>libopencv-dev</depend>
+  <depend>pluginlib</depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>tf2</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>yaml-cpp</depend>
+  <depend>visualization_msgs</depend>
+  <depend>interactive_markers</depend>
+  <depend>flatland_msgs</depend>
+  <depend>lua-dev</depend>
+
+  <export>
+    <flatland_server plugin="${prefix}/flatland_plugins.xml" />
+  </export>
+</package>

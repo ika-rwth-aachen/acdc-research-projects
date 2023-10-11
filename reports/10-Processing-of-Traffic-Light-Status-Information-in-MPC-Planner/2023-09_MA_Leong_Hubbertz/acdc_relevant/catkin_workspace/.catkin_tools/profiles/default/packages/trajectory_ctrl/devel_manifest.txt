@@ -1,0 +1,13 @@
+workshops/section_4/trajectory_ctrl
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/include/trajectory_ctrl/trj_ctrlConfig.h /home/rosuser/ws/catkin_workspace/devel/include/trajectory_ctrl/trj_ctrlConfig.h
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/share/trajectory_ctrl/cmake/trajectory_ctrlConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/trajectory_ctrl/cmake/trajectory_ctrlConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/share/trajectory_ctrl/cmake/trajectory_ctrlConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/trajectory_ctrl/cmake/trajectory_ctrlConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/share/trajectory_ctrl/docs/trj_ctrlConfig.wikidoc /home/rosuser/ws/catkin_workspace/devel/share/trajectory_ctrl/docs/trj_ctrlConfig.wikidoc
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/share/trajectory_ctrl/docs/trj_ctrlConfig.dox /home/rosuser/ws/catkin_workspace/devel/share/trajectory_ctrl/docs/trj_ctrlConfig.dox
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/share/trajectory_ctrl/docs/trj_ctrlConfig-usage.dox /home/rosuser/ws/catkin_workspace/devel/share/trajectory_ctrl/docs/trj_ctrlConfig-usage.dox
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/lib/python3/dist-packages/trajectory_ctrl/__init__.py /home/rosuser/ws/catkin_workspace/devel/lib/python3/dist-packages/trajectory_ctrl/__init__.py
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/lib/python3/dist-packages/trajectory_ctrl/cfg/__init__.py /home/rosuser/ws/catkin_workspace/devel/lib/python3/dist-packages/trajectory_ctrl/cfg/__init__.py
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/lib/python3/dist-packages/trajectory_ctrl/cfg/trj_ctrlConfig.py /home/rosuser/ws/catkin_workspace/devel/lib/python3/dist-packages/trajectory_ctrl/cfg/trj_ctrlConfig.py
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/lib/trajectory_ctrl/trajectory_control_node /home/rosuser/ws/catkin_workspace/devel/lib/trajectory_ctrl/trajectory_control_node
+/home/rosuser/ws/catkin_workspace/devel/.private/trajectory_ctrl/lib/pkgconfig/trajectory_ctrl.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/trajectory_ctrl.pc

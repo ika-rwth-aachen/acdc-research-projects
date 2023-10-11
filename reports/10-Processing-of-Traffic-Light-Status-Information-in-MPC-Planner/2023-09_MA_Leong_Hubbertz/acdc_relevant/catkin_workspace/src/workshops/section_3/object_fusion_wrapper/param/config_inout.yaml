@@ -1,0 +1,11 @@
+input_topics:
+    object_lists: [
+        /topicA,
+        /topicB
+    ]
+
+output_topics:
+    object_list_fused:
+        publish: true
+        topic: /TopicFusion
+        frame_id: map

@@ -1,0 +1,5 @@
+workshops/section_5/mqtt_launchpack
+/home/rosuser/ws/catkin_workspace/devel/.private/mqtt_launchpack/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/mqtt_launchpack/share/mqtt_launchpack/cmake/mqtt_launchpackConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/mqtt_launchpack/cmake/mqtt_launchpackConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/mqtt_launchpack/share/mqtt_launchpack/cmake/mqtt_launchpackConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/mqtt_launchpack/cmake/mqtt_launchpackConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/mqtt_launchpack/lib/pkgconfig/mqtt_launchpack.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/mqtt_launchpack.pc

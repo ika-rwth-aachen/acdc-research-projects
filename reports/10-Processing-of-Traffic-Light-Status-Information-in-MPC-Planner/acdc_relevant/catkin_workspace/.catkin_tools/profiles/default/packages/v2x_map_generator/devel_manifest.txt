@@ -1,0 +1,6 @@
+workshops/section_5/v2x_map_generator
+/home/rosuser/ws/catkin_workspace/devel/.private/v2x_map_generator/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
+/home/rosuser/ws/catkin_workspace/devel/.private/v2x_map_generator/share/v2x_map_generator/cmake/v2x_map_generatorConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/v2x_map_generator/cmake/v2x_map_generatorConfig-version.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/v2x_map_generator/share/v2x_map_generator/cmake/v2x_map_generatorConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/v2x_map_generator/cmake/v2x_map_generatorConfig.cmake
+/home/rosuser/ws/catkin_workspace/devel/.private/v2x_map_generator/lib/v2x_map_generator/v2x_map_generator_node /home/rosuser/ws/catkin_workspace/devel/lib/v2x_map_generator/v2x_map_generator_node
+/home/rosuser/ws/catkin_workspace/devel/.private/v2x_map_generator/lib/pkgconfig/v2x_map_generator.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/v2x_map_generator.pc

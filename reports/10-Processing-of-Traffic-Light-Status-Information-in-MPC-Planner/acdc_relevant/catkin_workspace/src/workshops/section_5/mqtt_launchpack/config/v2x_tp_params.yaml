@@ -1,0 +1,12 @@
+broker:
+  host: broker.hivemq.com
+  port: 1883
+
+bridge:
+  mqtt2ros:
+    # SPATEM
+    - mqtt_topic: ika_acdc_22/SPATEM
+      ros_topic: /SPATEM
+    # MAPEM
+    - mqtt_topic: ika_acdc_22/MAPEM
+      ros_topic: /MAPEM

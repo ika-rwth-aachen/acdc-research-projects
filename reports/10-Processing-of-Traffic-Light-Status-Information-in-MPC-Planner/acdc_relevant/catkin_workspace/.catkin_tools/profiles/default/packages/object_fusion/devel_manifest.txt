@@ -1,6 +1,0 @@
-workshops/section_3/object_fusion
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion/share/object_fusion/cmake/object_fusionConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/object_fusion/cmake/object_fusionConfig-version.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion/share/object_fusion/cmake/object_fusionConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/object_fusion/cmake/object_fusionConfig.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion/lib/libobject_fusion.so /home/rosuser/ws/catkin_workspace/devel/lib/libobject_fusion.so
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion/lib/pkgconfig/object_fusion.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/object_fusion.pc

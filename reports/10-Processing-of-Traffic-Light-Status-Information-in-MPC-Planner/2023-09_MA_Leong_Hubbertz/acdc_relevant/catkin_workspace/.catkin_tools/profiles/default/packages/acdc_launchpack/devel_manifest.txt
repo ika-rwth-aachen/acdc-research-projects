@@ -1,6 +1,0 @@
-dependencies/acdc_launchpack
-/home/rosuser/ws/catkin_workspace/devel/.private/acdc_launchpack/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
-/home/rosuser/ws/catkin_workspace/devel/.private/acdc_launchpack/share/acdc_launchpack/cmake/acdc_launchpackConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/acdc_launchpack/cmake/acdc_launchpackConfig-version.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/acdc_launchpack/share/acdc_launchpack/cmake/acdc_launchpackConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/acdc_launchpack/cmake/acdc_launchpackConfig.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/acdc_launchpack/lib/acdc_launchpack/transformation_node /home/rosuser/ws/catkin_workspace/devel/lib/acdc_launchpack/transformation_node
-/home/rosuser/ws/catkin_workspace/devel/.private/acdc_launchpack/lib/pkgconfig/acdc_launchpack.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/acdc_launchpack.pc

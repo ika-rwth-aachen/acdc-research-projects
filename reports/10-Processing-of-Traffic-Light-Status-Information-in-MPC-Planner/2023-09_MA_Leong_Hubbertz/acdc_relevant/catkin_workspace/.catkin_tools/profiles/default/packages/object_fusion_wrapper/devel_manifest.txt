@@ -1,6 +1,0 @@
-workshops/section_3/object_fusion_wrapper
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion_wrapper/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion_wrapper/share/object_fusion_wrapper/cmake/object_fusion_wrapperConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/object_fusion_wrapper/cmake/object_fusion_wrapperConfig.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion_wrapper/share/object_fusion_wrapper/cmake/object_fusion_wrapperConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/object_fusion_wrapper/cmake/object_fusion_wrapperConfig-version.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion_wrapper/lib/object_fusion_wrapper/object_fusion_wrapper_node /home/rosuser/ws/catkin_workspace/devel/lib/object_fusion_wrapper/object_fusion_wrapper_node
-/home/rosuser/ws/catkin_workspace/devel/.private/object_fusion_wrapper/lib/pkgconfig/object_fusion_wrapper.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/object_fusion_wrapper.pc

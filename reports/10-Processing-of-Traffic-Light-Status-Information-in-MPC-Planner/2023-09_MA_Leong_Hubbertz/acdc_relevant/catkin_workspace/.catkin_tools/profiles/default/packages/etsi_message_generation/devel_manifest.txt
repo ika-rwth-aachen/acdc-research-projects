@@ -1,6 +1,0 @@
-workshops/section_5/etsi_message_generation
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_message_generation/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_message_generation/share/etsi_message_generation/cmake/etsi_message_generationConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/etsi_message_generation/cmake/etsi_message_generationConfig-version.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_message_generation/share/etsi_message_generation/cmake/etsi_message_generationConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/etsi_message_generation/cmake/etsi_message_generationConfig.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_message_generation/lib/etsi_message_generation/cam_generator /home/rosuser/ws/catkin_workspace/devel/lib/etsi_message_generation/cam_generator
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_message_generation/lib/pkgconfig/etsi_message_generation.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/etsi_message_generation.pc

@@ -1,8 +1,0 @@
-broker:
-  host: broker.hivemq.com
-  port: 1883
-
-bridge:
-  ros2mqtt:
-    - ros_topic: /TopicCAM
-      mqtt_topic: ika_acdc_22/CAM

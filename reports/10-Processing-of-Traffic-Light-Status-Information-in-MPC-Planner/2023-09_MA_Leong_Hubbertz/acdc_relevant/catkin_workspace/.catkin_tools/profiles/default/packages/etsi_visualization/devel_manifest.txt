@@ -1,6 +1,0 @@
-workshops/section_5/etsi_visualization
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_visualization/cmake.lock /home/rosuser/ws/catkin_workspace/devel/./cmake.lock
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_visualization/share/etsi_visualization/cmake/etsi_visualizationConfig-version.cmake /home/rosuser/ws/catkin_workspace/devel/share/etsi_visualization/cmake/etsi_visualizationConfig-version.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_visualization/share/etsi_visualization/cmake/etsi_visualizationConfig.cmake /home/rosuser/ws/catkin_workspace/devel/share/etsi_visualization/cmake/etsi_visualizationConfig.cmake
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_visualization/lib/etsi_visualization/ETSIViz /home/rosuser/ws/catkin_workspace/devel/lib/etsi_visualization/ETSIViz
-/home/rosuser/ws/catkin_workspace/devel/.private/etsi_visualization/lib/pkgconfig/etsi_visualization.pc /home/rosuser/ws/catkin_workspace/devel/lib/pkgconfig/etsi_visualization.pc

@@ -14,6 +14,7 @@ All research is typically a joint effort between multiple collaborators. In that
 You can find all published research reports in the [`reports/`](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports) folder. It can also be interesting to take a look at the [forks of the repository](https://github.com/ika-rwth-aachen/acdc-research-projects/network/members) to check out what everyone else is working on.
 
 - [Domain Adaptation for Semantic Point Cloud Segmentation](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/02-Domain-Adaptation-for-Semantic-Point-Cloud-Segmentation/2022-09_marbuco/report.ipynb) by [@marbuco](https://github.com/marbuco/) (09/2022)
+- [Processing of Traffic Light Status Information in MPC-Planner](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/10-Processing-of-Traffic-Light-Status-Information-in-MPC-Planner/2023-09_MA_Leong_Hubbertz/report.ipynb) by [Lingyue MA](https://github.com/ihrer73), [Yi Hong Leong](https://github.com/malao98) and Michael Hubbertz (09/2023)
 
 ## Suggested Research Topics
 

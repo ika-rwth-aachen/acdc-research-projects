@@ -15,7 +15,7 @@ You can find all published research reports in the [`reports/`](https://github.c
 
 - [Domain Adaptation for Semantic Point Cloud Segmentation](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/02-Domain-Adaptation-for-Semantic-Point-Cloud-Segmentation/2022-09_marbuco/report.ipynb) by [@marbuco](https://github.com/marbuco/) (09/2022)
 - [Processing of Traffic Light Status Information in MPC-Planner](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/10-Processing-of-Traffic-Light-Status-Information-in-MPC-Planner/2023-09_MA_Leong_Hubbertz/report.ipynb) by [Lingyue MA](https://github.com/ihrer73), [Yi Hong Leong](https://github.com/malao98) and [Michael Hubbertz](https://github.com/EcxaByte) (09/2023)
-- [Traffic-Light-Detection](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/05-Traffic-Light-Detection/2023-09_Amin/report.ipynb) by [Kh Safkat Amin](https://github.com/khsafkatamin/) (09/2023)
+- [Traffic Light Detection](https://github.com/ika-rwth-aachen/acdc-research-projects/tree/main/reports/05-Traffic-Light-Detection/2023-09_Amin/report.ipynb) by [Kh Safkat Amin](https://github.com/khsafkatamin/) (09/2023)
 
 ## Suggested Research Topics
 

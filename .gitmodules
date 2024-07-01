@@ -1,3 +1,6 @@
 [submodule "acdc-notebooks"]
 	path = acdc-notebooks
 	url = https://github.com/ika-rwth-aachen/acdc-notebooks.git
+[submodule "reports/05-Traffic-Light-Detection/2023-09_Amin/yolov5"]
+	path = reports/05-Traffic-Light-Detection/2023-09_Amin/yolov5
+	url = https://github.com/ultralytics/yolov5
